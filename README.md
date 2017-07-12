@@ -1,11 +1,10 @@
 # simplified-Friggeri-CV-html
-Continous page Friggeri CV template
+Continous page Friggeri CV template. The idea is to have a static page with your CV in html. 
 
 
-Work in progress
+Work in progress.
 
 TO-DO:
- - Chek that it works outside jekyll
  - Add the extras tab
  - Add some color formating
  
