@@ -1,0 +1,121 @@
+
+/*CV Layout*/
+#CV {
+ width: 100%;
+ margin: 0; /* top right bottom left */
+ padding: 0;
+ }
+#CV #NAME { /* Header with the name */
+ margin: 3px 0 0 0;
+ padding: 20px 0 0 0;
+ width: 100%;
+ height: 115px;
+ float: left;
+ background-color: #808080;
+ font-size: 300%;
+ color: #fff;
+ text-align: center;
+ }
+#CV h2 { /* Sub header with occupation */
+ margin: 0 0 0px 0;
+ padding: 0px 0 20px 0;
+ width: 100%;
+ height: 25px;
+ float: left;
+ background-color: #808080;
+ color: #fff;
+ text-align: center;
+ }
+#CV h3 { /* Space between the header and the text */
+ margin: 0 0 0 0;
+ padding: 0;
+ width: 100%;
+ height: 25px;
+ float: left;
+ background-color: #fff;
+ text-align: center;
+ }
+#CV #col1 {
+ width: 15%;
+ float: left;
+ }
+#col1 #item {
+ margin: 0 0 7px 0;
+ padding: 0;
+ width: 100%;
+ float: left;
+ text-align: right;
+ font-size: 150%;
+ color: #808080;
+ background-color: #fff; 
+}
+#col1 #sub_item {
+ margin: 0 0 0 0;
+ padding: 0;
+ width: 100%;
+ float: left;
+ text-align: right;
+ font-size: 75%;
+ color: #808080;
+ background-color: #fff; 
+}
+#col1 #colspace {
+ margin: 0 0 0 0;
+ padding: 0;
+ width: 100%;
+ float: left;
+ height: 10000px
+ background-color: #000; 
+}
+#CV #col2outer {
+ width: 85%;
+ float: right;
+ margin: 0;
+ padding: 0;
+ } 
+#col2outer #col_item { 
+ width: 100%;
+ float: left;
+}
+#col_item #coltitle {
+ margin: 10px 0 20px 60px;
+ padding: 0;
+ width: 100%;
+ height: 25px;
+ float: left;
+ text-align: left;
+ font-size: 200%;
+ color: #808080;
+ background-color: #fff;
+}
+#col_item #col2mid {
+ width: 15%;
+ float: left;
+ text-align:right;
+ }
+#col2mid p {
+ font-size: 75%
+}
+#col_item #col2side {
+ width: 85%;
+ float: right;
+ }
+
+#col2side #itemtitle {
+ color: #000;
+ margin: 0 0 10px 0;
+}
+#col2side #itemplace {
+ color: #808080;
+ text-align: right;
+}
+#col2side #itemsubtitle {
+ color: #808080;
+ font-style: italic;
+}
+#col2side #itembody {
+ color: #808080;
+}
+
+
+
