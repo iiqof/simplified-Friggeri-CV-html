@@ -1,3 +1,17 @@
+body {
+    margin: 50px auto;
+    width: 80%;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
 
 /*CV Layout*/
 #CV {
